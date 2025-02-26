@@ -16,5 +16,24 @@ public class VariableDemo {
         double score = 99.9;
         System.out.println(score);
 
+        //定义一个变量 将其打印四次 体现了变量便于维护 的特点
+        int sum = 10;
+        System.out.println(sum);
+        System.out.println(sum);
+        System.out.println(sum);
+        System.out.println(sum);
+
+        //分隔符
+        System.out.println("========================================");
+
+        //动态显示变量的值的变化
+        int b = 10;
+        System.out.println(b);
+        b = b + 10;
+        System.out.println(b);
+        b = b - 10;
+        System.out.println(b);
+
+
     }
 }
