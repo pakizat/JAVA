@@ -8,32 +8,32 @@
 
    - 单行注释
 
-   ![屏幕截图 2025-02-26 151402](C:\Dcoument\For_study\Develop\my_code\JAVA\java_basic\firstMonth\src\day01\assets\屏幕截图 2025-02-26 151402.png)
+   ![屏幕截图 2025-02-26 151402](assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-26%20151402.png)
 
    - 多行注释
 
-![屏幕截图 2025-02-26 151445](C:\Dcoument\For_study\Develop\my_code\JAVA\java_basic\firstMonth\src\day01\assets\屏幕截图 2025-02-26 151445.png)
+![屏幕截图 2025-02-26 151445](assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-26%20151445.png)
 
 - 文档注释
 
-​	![屏幕截图 2025-02-26 151500](C:\Dcoument\For_study\Develop\my_code\JAVA\java_basic\firstMonth\src\day01\assets\屏幕截图 2025-02-26 151500.png)
+​	![屏幕截图 2025-02-26 151500](assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-26%20151500.png)
 
 2. 字面量
 
    - 数据的书写格式
 
-     ![屏幕截图 2025-02-26 152349](C:\Dcoument\For_study\Develop\my_code\JAVA\java_basic\firstMonth\src\day01\assets\屏幕截图 2025-02-26 152349.png)
+     ![屏幕截图 2025-02-26 152349](assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-26%20152349.png)
 
-![屏幕截图 2025-02-26 154339](C:\Dcoument\For_study\Develop\my_code\JAVA\java_basic\firstMonth\src\day01\assets\屏幕截图 2025-02-26 154339.png)
+![屏幕截图 2025-02-26 154339](assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-26%20154339.png)
 
-![屏幕截图 2025-02-26 154354](C:\Dcoument\For_study\Develop\my_code\JAVA\java_basic\firstMonth\src\day01\assets\屏幕截图 2025-02-26 154354.png)
+![屏幕截图 2025-02-26 154354](assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-26%20154354.png)
 
-![屏幕截图 2025-02-26 155407](C:\Dcoument\For_study\Develop\my_code\JAVA\java_basic\firstMonth\src\day01\assets\屏幕截图 2025-02-26 155407.png)
+![屏幕截图 2025-02-26 155407](assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-26%20155407.png)
 
 3. 变量详解
    - 变量是用来存储数据的
    - 定义格式 **数据类型 变量名称 = 数据；** ``` int age = 18;```
-   - ![屏幕截图 2025-02-26 155812](C:\Dcoument\For_study\Develop\my_code\JAVA\java_basic\firstMonth\src\day01\assets\屏幕截图 2025-02-26 155812.png)
+   - ![屏幕截图 2025-02-26 155812](assets/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-26%20155812.png)
    - 变量里的数据是可替换的
    - 
 
