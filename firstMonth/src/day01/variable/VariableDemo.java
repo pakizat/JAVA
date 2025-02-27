@@ -35,5 +35,20 @@ public class VariableDemo {
         System.out.println(b);
 
 
+        System.out.println("========================================");
+        //分别打印二进制、八进制、十六进制
+        int c = 10;
+        System.out.println(Integer.toBinaryString(c));
+        System.out.println(Integer.toOctalString(c));
+        System.out.println(Integer.toHexString(c));
+        System.out.println("========================================");
+        int e = 0b1010;
+        int f = 012;
+        int d = 0xa;
+        System.out.println(e);
+        System.out.println(f);
+        System.out.println(d);
+        System.out.println("========================================");
+
     }
 }
