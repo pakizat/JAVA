@@ -17,6 +17,10 @@ public class TypeDemo1 {
             printVariable2((byte)b);
             printVariable2(c);
         System.out.println("================================================");
+        //小数强制转换为整数会直接丢失小数部分
+        double d = 12.6;
+        int e = (int) d;
+        printVariable(e);
     }
     //定义一个方法接收int类型打印出来
     public static void printVariable(int a){
@@ -26,4 +30,5 @@ public class TypeDemo1 {
     public static void printVariable2(byte a){
         System.out.println(a);
     }
+
 }
