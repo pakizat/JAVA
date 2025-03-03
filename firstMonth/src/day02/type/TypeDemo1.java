@@ -1,4 +1,4 @@
-package day02.TypeDemo;
+package day02.type;
 
 /**
  * 目标 ：理解类型转换中 的 自动转换与强制转换

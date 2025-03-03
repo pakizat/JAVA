@@ -1,4 +1,4 @@
-package day02.MethodDemo;
+package day02.method;
 
 /**
  * 目标 ：掌握方法的声名以及调用

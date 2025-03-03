@@ -1,6 +1,6 @@
 # java_basic
 - 用来学习Java基础 使用课程为 "黑马程序员Java+AI智能辅助编程全套视频教程，java零基础入门到大牛一套通关" 
-- 按月为学习时间单位 来分类
+- 【黑马程序员Java+AI智能辅助编程全套视频教程，java零基础入门到大牛一套通关】https://www.bilibili.com/video/BV1gb42177hm?p=25&vd_source=cfb83f5b8822b265d443be9c09038b11
 
 
 ## Getting started
