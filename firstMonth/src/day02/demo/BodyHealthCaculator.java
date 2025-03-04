@@ -29,18 +29,18 @@ public class BodyHealthCaculator {
         System.out.println("经过计算 您的相关数据如下");
         //判断bmi的健康状态
         if (bmi<18.5){
-            System.out.println("您的BMI为："+bmi+"，您的身体状态为：过轻");
+            System.out.printf("您的BMI为：%.2f，您的身体状态为：过轻%n", bmi);
         }else if (bmi>=18.5&&bmi<24.9){
-            System.out.println("您的BMI为："+bmi+"，您的身体状态为：正常");
+            System.out.printf("您的BMI为：%.2f，您的身体状态为：正常%n", bmi);
         }else if (bmi>=24.9&&bmi<27.0){
-            System.out.println("您的BMI为："+bmi+"，您的身体状态为：过重");
+            System.out.printf("您的BMI为：%.2f，您的身体状态为：过重%n", bmi);
         }else if (bmi>=27.0&&bmi<30.0){
-            System.out.println("您的BMI为："+bmi+"，您的身体状态为：肥胖");
+            System.out.printf("您的BMI为：%.2f，您的身体状态为：肥胖%n", bmi);
         }else {
-            System.out.println("您的BMI为："+bmi+"，您的身体状态为： severely obese");
+            System.out.printf("您的BMI为：%.2f，您的身体状态为： severely obese%n", bmi);
         }
         System.out.println("您的BMR为："+bmr);
-        System.out.println("您的体脂率为："+bodyFatRate + "%");
+        System.out.printf("您的体脂率为：%.2f", bmr);
 
     }
     //2.定义方法来计算BMI
