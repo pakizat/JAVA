@@ -1,4 +1,4 @@
-package day03.loop;
+package src.day03.loop;
 
 /**
  * 使用循环嵌套 打印 乘法表

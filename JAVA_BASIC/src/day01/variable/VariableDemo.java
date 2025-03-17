@@ -1,4 +1,4 @@
-package day01.variable;
+package src.day01.variable;
 
 /**
  *目标 ：认识变量

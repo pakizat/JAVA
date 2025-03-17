@@ -1,4 +1,4 @@
-package day01.literal;
+package src.day01.literal;
 /**
  * 学习目标 掌握字面量的书写格式
  *

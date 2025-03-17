@@ -1,4 +1,4 @@
-package day02.type;
+package src.day02.type;
 
 /**
  * 目标； 体验表达式的自动类型提升

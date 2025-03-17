@@ -1,4 +1,4 @@
-package day01.variable;
+package src.day01.variable;
 
 public class VariableDemo2 {
     public static void main(String[] args) {

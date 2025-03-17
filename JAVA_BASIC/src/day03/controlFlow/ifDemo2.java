@@ -1,4 +1,4 @@
-package day03.controlFlow;
+package src.day03.controlFlow;
 
 /**
  * 完成分支练习 练习内容 汽车根据型号灯驾驶

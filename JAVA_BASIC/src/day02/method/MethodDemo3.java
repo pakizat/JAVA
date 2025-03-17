@@ -1,4 +1,4 @@
-package day02.method;
+package src.day02.method;
 
 /**
  * 目标 ： 掌握 在无返回值方法中 使用 return;来终止 方法的执行

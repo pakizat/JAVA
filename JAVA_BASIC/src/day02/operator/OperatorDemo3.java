@@ -1,4 +1,4 @@
-package day02.operator;
+package src.day02.operator;
 
 /**
  * 目标 学习理解扩展赋值运算符

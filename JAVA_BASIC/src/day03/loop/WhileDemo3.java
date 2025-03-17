@@ -1,4 +1,4 @@
-package day03.loop;
+package src.day03.loop;
 
 /**
  * 学习了解 while循环

@@ -1,4 +1,4 @@
-package day03.loop;
+package src.day03.loop;
 
 /**
  * while 使用案例
