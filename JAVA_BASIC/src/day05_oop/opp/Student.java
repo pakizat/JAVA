@@ -1,4 +1,4 @@
-package src.day05_oop;
+package src.day05_oop.opp;
 //学生类
 public class Student {
     String name;
