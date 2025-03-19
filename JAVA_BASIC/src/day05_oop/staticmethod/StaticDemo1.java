@@ -1,7 +1,7 @@
 package src.day05_oop.staticmethod;
 
 /**
- *  目标 ：理解静态成员变量的作用 及其应用场景  （实例方法与静态方法）
+ *  目标 ：认识static 方法 修饰 和 不修饰 的 区别
  */
 public class StaticDemo1 {
     public static void main(String[] args) {
