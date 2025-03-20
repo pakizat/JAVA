@@ -79,12 +79,16 @@
 
 ![image-20250319150154771](assets/image-20250319150154771.png)
 
-![image-20250319220715669](C:\Documents\Develop\JAVA\JAVA_BASIC\src\day05_oop\assets\image-20250319220715669.png)
+![image-20250319220715669](.\assets\image-20250319220715669.png)
 
-![image-20250319220755837](C:\Documents\Develop\JAVA\JAVA_BASIC\src\day05_oop\assets\image-20250319220755837.png)
+![image-20250319220755837](.\assets\image-20250319220755837.png)
 
-![image-20250319220958865](C:\Documents\Develop\JAVA\JAVA_BASIC\src\day05_oop\assets\image-20250319220958865.png)
+![image-20250319220958865](.\assets\image-20250319220958865.png)
 
-![image-20250319221802327](C:\Documents\Develop\JAVA\JAVA_BASIC\src\day05_oop\assets\image-20250319221802327.png)
+![image-20250319221802327](.\assets\image-20250319221802327.png)
 
-![image-20250319221849288](C:\Documents\Develop\JAVA\JAVA_BASIC\src\day05_oop\assets\image-20250319221849288.png) 
+![image-20250319221849288](.\assets\image-20250319221849288.png) 
+
+![image-20250320102233417](assets/image-20250320102233417.png)
+
+![image-20250320103126636](assets/image-20250320103126636.png)

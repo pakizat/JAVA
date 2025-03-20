@@ -13,9 +13,11 @@ public class StaticDemo1 {
         System.out.println(Student.getCount());
 
         Student stu1 = new Student("博妞","女",18,98,89,1,"博学谷");
+        //提示是因为静态方法 应该从类名.方法名 调用
         System.out.println(stu1.getCount());
         Student stu2 = new Student("博仔","男",18,65,75,2,"博学山");
-        System.out.println(stu2.getCount());
+        //类名.getCount() 不会提示
+        System.out.println(Student.getCount());
 
         StudentOperator operator1 = new StudentOperator(stu1);
         operator1.printInfo();
