@@ -1,4 +1,4 @@
-package day06_oop.extendsdemo;
+package day06_oop.extendsmodifier;
 //父类
 //继承的特点 ：子类对象可以调用父类中的所有非私有成员变量和方法 减少代码重复
 
@@ -6,6 +6,10 @@ public class People {
     private String name;
     private int age;
     private String sex;
+            int none_number;
+    protected int protected_number;
+    public int public_number;
+    private int private_number;
 
     public People() {
     }
