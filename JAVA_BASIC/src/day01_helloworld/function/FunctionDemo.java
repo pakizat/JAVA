@@ -1,4 +1,4 @@
-package src.day01_helloworld.function;
+package day01_helloworld.function;
 
 public class FunctionDemo {
     public static void main(String[] args) {

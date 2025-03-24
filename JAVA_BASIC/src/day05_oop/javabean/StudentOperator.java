@@ -1,4 +1,4 @@
-package src.day05_oop.javabean;
+package day05_oop.javabean;
 
 public class StudentOperator {
     private Student s;

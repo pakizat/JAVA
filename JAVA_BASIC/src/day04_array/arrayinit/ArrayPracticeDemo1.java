@@ -1,4 +1,4 @@
-package src.day04_array.arrayinit;
+package day04_array.arrayinit;
 
 /**
  * 目标 学习 数组的静态定义

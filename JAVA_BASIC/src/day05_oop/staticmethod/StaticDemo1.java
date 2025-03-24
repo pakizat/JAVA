@@ -1,4 +1,4 @@
-package src.day05_oop.staticmethod;
+package day05_oop.staticmethod;
 
 /**
  *  目标 ：认识static 方法 修饰 和 不修饰 的 区别

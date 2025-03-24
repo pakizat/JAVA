@@ -1,4 +1,4 @@
-package src.day02_basic.operator;
+package day02_basic.operator;
 
 /**
  * 目标熟悉基本运算

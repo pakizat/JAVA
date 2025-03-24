@@ -1,4 +1,4 @@
-package src.day01_helloworld.variable;
+package day01_helloworld.variable;
 
 public class VariableDemo2 {
     public static void main(String[] args) {

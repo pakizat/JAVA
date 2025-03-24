@@ -1,4 +1,4 @@
-package src.day05_oop.constructor;
+package day05_oop.constructor;
 
 /**
  * 目标 ： 搞清楚类的构造器类型 作用 及其应用场景

@@ -1,4 +1,4 @@
-package src.day03_flowcontrol.controlflow;
+package day03_flowcontrol.controlflow;
 
 import java.util.Scanner;
 

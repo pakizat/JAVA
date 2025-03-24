@@ -1,4 +1,4 @@
-package src.day05_oop.javabean;
+package day05_oop.javabean;
 
 public class Student {
     //1. 声明成员变量私有化

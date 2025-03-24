@@ -1,4 +1,4 @@
-package src.day05_oop.staticmethod;
+package day05_oop.staticmethod;
 
 
 public class StudentOperator {

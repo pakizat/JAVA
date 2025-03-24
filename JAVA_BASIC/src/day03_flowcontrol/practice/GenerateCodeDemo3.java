@@ -1,4 +1,4 @@
-package src.day03_flowcontrol.practice;
+package day03_flowcontrol.practice;
 
 import java.util.Scanner;
 

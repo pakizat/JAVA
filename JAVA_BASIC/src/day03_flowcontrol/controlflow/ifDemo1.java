@@ -1,10 +1,11 @@
-package src.day03_flowcontrol.controlflow;
+package day03_flowcontrol.controlflow;
 
 import java.util.Scanner;
 
 /**
  * 目标 学习理解 if 语句 的基本使用
  */
+
 
 public class ifDemo1 {
     public static void main(String[] args) {

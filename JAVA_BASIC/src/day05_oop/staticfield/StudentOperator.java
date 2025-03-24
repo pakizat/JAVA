@@ -1,4 +1,4 @@
-package src.day05_oop.staticfield;
+package day05_oop.staticfield;
 
 
 public class StudentOperator {

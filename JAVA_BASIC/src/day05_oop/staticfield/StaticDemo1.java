@@ -1,4 +1,4 @@
-package src.day05_oop.staticfield;
+package day05_oop.staticfield;
 
 /**
  *  目标 ：理解静态成员变量的作用 及其应用场景  （实例方法与静态方法）

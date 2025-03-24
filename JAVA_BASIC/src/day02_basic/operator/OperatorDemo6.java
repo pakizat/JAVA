@@ -1,4 +1,4 @@
-package src.day02_basic.operator;
+package day02_basic.operator;
 
 /**
  * 目标：学习使用逻辑运算符

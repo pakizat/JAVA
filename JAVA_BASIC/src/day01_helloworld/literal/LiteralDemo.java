@@ -1,4 +1,4 @@
-package src.day01_helloworld.literal;
+package day01_helloworld.literal;
 /**
  * 学习目标 掌握字面量的书写格式
  *

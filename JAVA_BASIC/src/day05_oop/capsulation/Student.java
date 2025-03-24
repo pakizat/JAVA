@@ -1,4 +1,4 @@
-package src.day05_oop.capsulation;
+package day05_oop.capsulation;
 //学生类
 public class Student {
     //1. 声明成员变量私有化

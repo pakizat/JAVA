@@ -1,4 +1,4 @@
-package src.day01_helloworld.comment;
+package day01_helloworld.comment;
 /***
  * @author: zhangcheng
  * @date: 2020/10/09

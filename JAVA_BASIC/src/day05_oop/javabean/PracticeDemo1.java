@@ -1,4 +1,4 @@
-package src.day05_oop.javabean;
+package day05_oop.javabean;
 
 /**
  * 目标 搞清楚实体类是什么 搞清楚基本作用与应用场景 以及初次使用业务类

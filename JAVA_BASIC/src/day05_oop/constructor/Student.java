@@ -1,4 +1,4 @@
-package src.day05_oop.constructor;
+package day05_oop.constructor;
 
 /**
  * 这是一个学生类

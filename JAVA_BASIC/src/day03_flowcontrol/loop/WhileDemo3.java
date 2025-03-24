@@ -1,4 +1,4 @@
-package src.day03_flowcontrol.loop;
+package day03_flowcontrol.loop;
 
 /**
  * 学习了解 while循环

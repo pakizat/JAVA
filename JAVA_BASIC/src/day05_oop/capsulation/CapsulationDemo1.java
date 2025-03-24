@@ -1,4 +1,4 @@
-package src.day05_oop.capsulation;
+package day05_oop.capsulation;
 
 /**
  * 目标 了解封装的设计思想 合理隐藏合理暴露 学会隐藏和暴露的方法

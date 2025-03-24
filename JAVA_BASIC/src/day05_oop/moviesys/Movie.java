@@ -1,4 +1,4 @@
-package src.day05_oop.moviesys;
+package day05_oop.moviesys;
 
 public class Movie {
 

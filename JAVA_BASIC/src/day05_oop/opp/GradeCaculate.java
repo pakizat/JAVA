@@ -1,4 +1,4 @@
-package src.day05_oop.opp;
+package day05_oop.opp;
 
 /**
  * 目标 使用类的属性和方法的封装 实现学生成绩计算

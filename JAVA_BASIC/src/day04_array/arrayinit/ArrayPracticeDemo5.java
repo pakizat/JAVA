@@ -1,4 +1,4 @@
-package src.day04_array.arrayinit;
+package day04_array.arrayinit;
 
 import java.util.Scanner;
 

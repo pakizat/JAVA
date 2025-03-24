@@ -1,4 +1,4 @@
-package src.day05_oop.thisdemo;
+package day05_oop.thisdemo;
 
 /**
  *  目标 ： 认识  this 关键词 了解掌握 其 使用场景

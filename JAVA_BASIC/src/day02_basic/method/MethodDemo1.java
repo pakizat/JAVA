@@ -1,4 +1,4 @@
-package src.day02_basic.method;
+package day02_basic.method;
 
 /**
  * 目标 ：掌握方法的声名以及调用

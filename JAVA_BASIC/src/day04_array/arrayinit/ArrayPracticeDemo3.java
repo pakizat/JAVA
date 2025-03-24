@@ -1,4 +1,4 @@
-package src.day04_array.arrayinit;
+package day04_array.arrayinit;
 
 /**
  * 目标 ： 完成扑克牌游戏的两项功能 一个是创建新牌 然后对此进行洗牌
