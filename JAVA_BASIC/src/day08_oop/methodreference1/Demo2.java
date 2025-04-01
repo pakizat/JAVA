@@ -1,12 +1,11 @@
 package day08_oop.methodreference1;
-
+/**
+ * 目标： 实例方法引用
+ */
 
 import java.util.Arrays;
 
-/**
- * 目标 ： 静态方法引用 的使用
- */
-public class Demo1 {
+public class Demo2 {
     public static void main(String[] args) {
         test1();
     }
@@ -19,10 +18,12 @@ public class Demo1 {
         students[4] = new Student("孙七", 22, 140, '男');
         students[5] = new Student("钱八", 23, 130, '女');
 
-        //Arrays.sort(students, (o1, o2) -> o1.getAge() - o2.getAge());
 
-        //静态方法引用 类名::静态方法名
-        Arrays.sort(students, Student::compareByAge);
+        Student s1 = new Student();
+        //实例方法引用 对象名::实例方法名
+//        Arrays.sort(students, (o1, o2) -> s1.compareByHeight(o1, o2));
+        //箭头前后的参数类型必须一致才能实例方法引用
+        Arrays.sort(students, s1::compareByHeight);
 
         //遍历数组
         for (Student student : students) {

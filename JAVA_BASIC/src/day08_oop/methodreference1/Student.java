@@ -21,4 +21,7 @@ public class Student {
         return s1.getAge() - s2.getAge();
     }
 
+    public int compareByHeight(Student o1, Student o2) {
+        return Double.compare(o1.getHeight(), o2.getHeight());
+    }
 }
