@@ -42,6 +42,7 @@ public class Demo1 {
         //判断字符串是否相等
         //public boolean equals(Object anObject)
         //案例： 简易版的登录
+        //真的学不下去了
 
     }
 }
