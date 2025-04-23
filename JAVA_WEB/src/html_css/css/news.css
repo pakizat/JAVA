@@ -4,3 +4,20 @@ span{
 a{
     text-decoration: none;
 }
+img{
+    width: 100%;
+}
+p{
+    /*设置行高*/
+    line-height: 2;
+    /*被设置为了行高的倍数 也能使用像素单位设置行高*/
+    /*设置每段开头缩进两个字符*/
+    text-indent: 2em;
+
+    width: 100%;
+}
+#content-container{
+    width: 50%;
+    /*居中显示*/
+    margin: 0 auto;
+}
